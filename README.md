@@ -1,6 +1,19 @@
 # AI Remote
 
-Сессии ИИ на компьютере у вас в телефоне: Claude Code и Codex в VS Code и в командной строке. Читайте переписку вживую, пишите, отвечайте на запросы разрешений, получайте уведомления. Работает и дома, и через интернет. Свои серверы не нужны.
+Сессии ИИ на компьютере у вас в телефоне: Claude Code, Codex и Antigravity — в VS Code, в своих приложениях и в командной строке. Читайте переписку вживую, пишите, отвечайте на запросы разрешений, меняйте модель, получайте уведомления. Работает и дома, и через интернет. Свои серверы не нужны.
+
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/home.png" width="240" alt="Главный экран"><br>Компьютеры, агенты, проекты</td>
+    <td align="center"><img src="screenshots/permission.png" width="240" alt="Запрос разрешения"><br>Разрешения — одной кнопкой</td>
+    <td align="center"><img src="screenshots/antigravity.png" width="240" alt="Чат Antigravity"><br>Antigravity: Gemini, Claude, GPT-OSS</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/codex.png" width="240" alt="Чат Codex"><br>Codex</td>
+    <td align="center"><img src="screenshots/new-session.png" width="240" alt="Новая сессия"><br>Новая сессия с телефона</td>
+    <td align="center"><img src="screenshots/dark.png" width="240" alt="Тёмная тема"><br>Светлая и тёмная тема</td>
+  </tr>
+</table>
 
 ## Установка (5 минут)
 
