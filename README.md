@@ -4,14 +4,19 @@
 
 <table>
   <tr>
-    <td align="center"><img src="screenshots/home.png" width="240" alt="Главный экран"><br>Компьютеры, агенты, проекты</td>
-    <td align="center"><img src="screenshots/permission.png" width="240" alt="Запрос разрешения"><br>Разрешения — одной кнопкой</td>
-    <td align="center"><img src="screenshots/antigravity.png" width="240" alt="Чат Antigravity"><br>Antigravity: Gemini, Claude, GPT-OSS</td>
+    <td align="center"><img src="screenshots/home.png" width="240" alt="Главный экран"><br>Несколько ПК, агенты, проекты</td>
+    <td align="center"><img src="screenshots/project.png" width="240" alt="Проект"><br>Проект: открытые и прошлые сессии</td>
+    <td align="center"><img src="screenshots/sessions.png" width="240" alt="Все сессии"><br>Все сессии</td>
   </tr>
   <tr>
+    <td align="center"><img src="screenshots/permission.png" width="240" alt="Запрос разрешения"><br>Разрешения — одной кнопкой</td>
+    <td align="center"><img src="screenshots/antigravity.png" width="240" alt="Чат Antigravity"><br>Antigravity: Gemini, Claude, GPT-OSS</td>
     <td align="center"><img src="screenshots/codex.png" width="240" alt="Чат Codex"><br>Codex</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="screenshots/terminal.png" width="240" alt="Claude в командной строке"><br>Claude в командной строке</td>
+    <td align="center"><img src="screenshots/settings.png" width="240" alt="Настройки сессии"><br>Модель, режим, лимиты</td>
     <td align="center"><img src="screenshots/new-session.png" width="240" alt="Новая сессия"><br>Новая сессия с телефона</td>
-    <td align="center"><img src="screenshots/dark.png" width="240" alt="Тёмная тема"><br>Светлая и тёмная тема</td>
   </tr>
 </table>
 
